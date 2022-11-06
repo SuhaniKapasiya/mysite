@@ -1,0 +1,38 @@
+.top{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: absolute;
+
+    
+    
+    
+}
+.middle
+{
+    
+    height: 200px;
+    width: 200px;
+    background-color: rgb(106, 26, 211);
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    
+
+    
+    
+}
+.bottom{
+
+    background-color: rgb(255, 217, 0);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+
+
+}
+body{
+    margin: 0;
+}
